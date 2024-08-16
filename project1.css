@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&family=Oswald:wght@200..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    font-family: "Nanum Brush Script", Static;
+    font-size: 40px;
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: none;
+
+.projects {
+    padding: 12px;
+    margin-top: 12px;
+    background-color: rgba(0, 0, 0, 0.07);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgb(129, 2, 255);
+    text-align: left;
+}
+
+.projects h2 {
+    margin: 10px 0;
+    color: #fff;
+    text-align: center;
+}
+
+.projects ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.projects li {
+    text-align: center;
+    text-decoration: ;
+    margin-bottom: 10px;
+}
+
+.projects h3 {
+    margin: 5px 0;
+    color: #fff;
+}
+
+.projects p {
+    margin: 5px 0;
+    color: #ffffffe8;
+}
+
+.project-image {
+    width: auto;
+    height: auto;
+    box-align:center;
+    border-radius: 8px;
+    margin-top: 10px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.3); 
+}
+}
+
+.cursor {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    border: 1px solid #f5f5f5;
+    border-radius: 50%;
+    left: 0;
+    top: 0;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    transition: 0.1s;
+}    
+
+.cursor2 {
+    position: fixed;
+    width: 20px;
+    height: 20px;
+    background-color: #c6c6c6;
+    border-radius: 50%;
+    left: 0;
+    top: 0;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+}   
