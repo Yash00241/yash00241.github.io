@@ -18,8 +18,7 @@ body, html {
 
 .animated-text {
     color: #ffccf2;
-    max-font-size: 8em;
-    font-size: auto;
+    font-size: 2em;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     animation: pulse 2s infinite;
 }
