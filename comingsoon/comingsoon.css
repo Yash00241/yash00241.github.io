@@ -10,7 +10,7 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100%;
+    height: auto;
     background-image: url(comingsoon.jpg);
     background-size: cover;
     background-position: center;
@@ -18,7 +18,8 @@ body, html {
 
 .animated-text {
     color: #ffccf2;
-    font-size: 8em;
+    max-font-size: 8em;
+    font-size: auto;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     animation: pulse 2s infinite;
 }
