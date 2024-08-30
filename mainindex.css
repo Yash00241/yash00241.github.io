@@ -11,10 +11,8 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
     flex-direction: column;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.443);
-    cursor: none;
 }
 
 body {
@@ -83,28 +81,3 @@ p {
     color: #fff;
     margin: 10px 0;
 }
-
-.cursor {
-    position: fixed;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f5f5f5;
-    border-radius: 50%;
-    left: 0;
-    top: 0;
-    pointer-events: none;
-    transform: translate(-50%, -50%);
-    transition: 0.1s;
-}    
-
-.cursor2 {
-    position: fixed;
-    width: 20px;
-    height: 20px;
-    background-color: #c6c6c6;
-    border-radius: 50%;
-    left: 0;
-    top: 0;
-    pointer-events: none;
-    transform: translate(-50%, -50%);
-}   
