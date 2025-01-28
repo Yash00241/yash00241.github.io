@@ -9,7 +9,7 @@ This is a one-stop website which tells about my journey, projects, and creations
 ## ✨ Features  
 
 1. **Main Webpage** 🏠  
-   - The starting point of my portfolio.  
+   - The starting point of my portfolio webpage.  
 
 2. **About Me** 👨‍💻  
    - A brief insight into who I am, my passions, and my goals.  
