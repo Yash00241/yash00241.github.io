@@ -47,6 +47,8 @@ This is a one-stop website which tells about my journey, projects, and creations
 ![Web-Based Operating System](assets/web_based_os.png)  
 *Screenshot of the Web-Based OS*  
 
+![Arc-Reactor Intro Webpage](assets/arc_reactor.png)  
+*Screenshot of the Arc-Reactor*  
 ---
 
 ## 🚀 Demo  
